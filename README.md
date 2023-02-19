@@ -54,7 +54,7 @@ This will generate the following files
 
 
 
-### Importance of ensemble model training
+## Importance of ensemble model training
 
 Ensemble model training is a powerful technique for improving the performance of image classification tasks in the context of deep learning. It involves training multiple models and combining their outputs to obtain better predictions than any individual model could achieve alone.
 
