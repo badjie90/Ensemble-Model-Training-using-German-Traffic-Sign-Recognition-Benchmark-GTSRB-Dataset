@@ -1,4 +1,4 @@
-### Ensemble-Model-Training-using-German-Traffic-Sign-Recognition-Benchmark-GTSRB-Dataset
+# Ensemble-Model-Training-using-German-Traffic-Sign-Recognition-Benchmark-GTSRB-Dataset
 
 In this repository, you can find a comprehensive deep learning multi-class classification project that leverages the power of the ensemble method to combine multiple models for superior performance. The code is openly available for anyone interested in gaining a deeper understanding of how to integrate different deep learning models to tackle various machine learning tasks with ease.
 
